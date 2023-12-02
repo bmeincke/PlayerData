@@ -1,0 +1,57 @@
+[
+  {
+    "PlayerName": "Alex Ovechkin",
+    "PlayerNumber": "#8",
+    "PlayerBio": "Alexander Ovechkin is the leagues most prolific goal scorer. Ovechkin is currently in the hunt of Wayne Gretzky's all-time goal record of 894 career goals. Ovechkin currently sits at 822 goals.",
+    "Height": "6'3",
+    "Weight": "220lbs",
+    "Position": "LW",
+    "Handedness": "Right",
+    "Birth": "Russia",
+    "PlayerImage": "Ovechkin.png"
+  },
+  {
+    "PlayerName": "Nickolas Backstrom",
+    "PlayerNumber": "#19",
+    "PlayerBio": "Nickolas Backstrom has been the career-long teammate of Alex Ovechkin. The two of them combine for one of the most entertaining dynamic duos in the league. With Backstrom's passing and Ovechkin's ability to score, the two are practically unstoppable.",
+    "Height": "6'1",
+    "Weight": "198lbs",
+    "Position": "C",
+    "Handedness": "Right",
+    "Birth": "Sweden",
+    "PlayerImage": "Backstrom.png"
+  },
+  {
+    "PlayerName": "John Carlson",
+    "PlayerNumber": "#74",
+    "PlayerBio": "John Carlson has solidified his name as one of the top defensemen in the league. Carlson's defensive awareness in tandem with his offensive prowess makes for an elite defenseman.",
+    "Height": "6'2",
+    "Weight": "235lbs",
+    "Position": "LD",
+    "Handedness": "Left",
+    "Birth": "Canada",
+    "PlayerImage": "Carlson.png"
+  },
+  {
+    "PlayerName": "Evgeny Kuznetsov",
+    "PlayerNumber": "92",
+    "PlayerBio": "Evgeny Kuznetsov has earned a tenured position on this Capital's roster. This star center is known for his ability to dance around defenders and dish the puck off for beautiful assists.",
+    "Height": "5'10",
+    "Weight": "190lbs",
+    "Position": "C",
+    "Handedness": "Right",
+    "Birth": "Russia",
+    "PlayerImage": "Kuznetsov.png"
+  },
+  {
+    "PlayerName": "T.J. Oshie",
+    "PlayerNumber": "77",
+    "PlayerBio": "T.J. Oshie was acquired by the Caps in the 2015-2016 offseason. Since coming to Washington, Oshie has earned the love of all fans by leaving his all out on the ice every shift.",
+    "Height": "5'11",
+    "Weight": "180lbs",
+    "Position": "RW",
+    "Handedness": "Right",
+    "Birth": "USA",
+    "PlayerImage": "Oshie.png"
+  }
+]
