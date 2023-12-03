@@ -1,4 +1,4 @@
-{
+[
   {
     "PlayerName": "Alex Ovechkin",
     "PlayerNumber": "#8",
@@ -55,4 +55,4 @@
     "PlayerImage": "Oshie.png"
   }
   Status: "OK"
-}
+]
