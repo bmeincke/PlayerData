@@ -1,5 +1,7 @@
 {
-  {
+  "Players":
+[
+{
     "PlayerName": "Alex Ovechkin",
     "PlayerNumber": "#8",
     "PlayerBio": "Alexander Ovechkin is the leagues most prolific goal scorer. Ovechkin is currently in the hunt of Wayne Gretzky's all-time goal record of 894 career goals. Ovechkin currently sits at 822 goals.",
@@ -54,5 +56,6 @@
     "Birth": "USA",
     "PlayerImage": "Oshie.png"
   }
+  ],
   Status: "OK"
 }
